@@ -65,7 +65,6 @@ html {
     color: #FEFCE4;
     position: relative;
     bottom: 40rem;
-    right: 20rem;
     line-height: 30rem;
 }
 
@@ -105,9 +104,9 @@ html {
 }
 
 .redes img {
-    width: 24rem;
+    width: 28rem;
     height: 24rem;
-    margin-right: 15rem;
+    margin-right: 5rem;
 }
 
 
