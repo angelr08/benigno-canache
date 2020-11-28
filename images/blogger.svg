@@ -1,1 +1,15 @@
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 402 402"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:2px;}</style></defs><title>blogger</title><path class="cls-1" d="M410,450H90a40,40,0,0,1-40-40V90A40,40,0,0,1,90,50H410a40,40,0,0,1,40,40V410A40,40,0,0,1,410,450Z" transform="translate(-49 -49)"/><path class="cls-1" d="M200,220h50a20,20,0,0,0,0-40H200a20,20,0,0,0,0,40Z" transform="translate(-49 -49)"/><path class="cls-1" d="M300,280H200a20,20,0,0,0,0,40H300a20,20,0,0,0,0-40Z" transform="translate(-49 -49)"/><path class="cls-1" d="M360,220H350a20.06,20.06,0,0,1-20-20,80.24,80.24,0,0,0-80-80H200a80.24,80.24,0,0,0-80,80V300a80.24,80.24,0,0,0,80,80H300a80.24,80.24,0,0,0,80-80V240A20.06,20.06,0,0,0,360,220Z" transform="translate(-49 -49)"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 402 402" style="enable-background:new 0 0 402 402;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F9F7F7;stroke-width:11;stroke-miterlimit:10;}
+</style>
+<title>blogger</title>
+<path class="st0" d="M350.1,387.3H51.9c-20.6,0-37.3-16.7-37.3-37.3V51.9c0-20.6,16.7-37.3,37.3-37.3h298.2
+	c20.6,0,37.3,16.7,37.3,37.3v298.2C387.3,370.7,370.7,387.3,350.1,387.3z"/>
+<path class="st0" d="M151,171h50c11,0,20-9,20-20s-9-20-20-20h-50c-11,0-20,9-20,20S140,171,151,171z"/>
+<path class="st0" d="M251,231H151c-11,0-20,9-20,20s9,20,20,20h100c11,0,20-9,20-20S262,231,251,231z"/>
+<path class="st0" d="M311,171h-10c-11,0-20-9-20-20c-0.1-44.1-35.9-79.9-80-80h-50c-44.1,0.1-79.9,35.9-80,80v100
+	c0.1,44.1,35.9,79.9,80,80h100c44.1-0.1,79.9-35.9,80-80v-60C331,180,322,171,311,171z"/>
+</svg>
