@@ -77,6 +77,8 @@ html {
     height: 412rem;
 }
 
+/* Sección para formación.html */
+
 .fondo2 {
     width: 100vw;
     height: 20vh;
@@ -84,7 +86,7 @@ html {
     background-size: cover;
 }
 
-.formacion {
+.formacion, .clases {
     width: 50vw;
     height: 10vh;
     background-color: #521B15;
@@ -127,6 +129,113 @@ html {
     height: 20vh;
     background-image: url("https://i.imgur.com/Yp8iUSS.jpg");
     background-size: cover;
+}
+
+.fondo4 {
+    width: 100vw;
+    height: 20vh;
+    background-image: url("https://i.imgur.com/e9MVDao.jpg");
+    background-size: cover;
+}
+
+/* Sección para clases.html */
+
+.compras div {
+    margin-bottom: 20rem;
+}
+
+.compras .coral {
+    margin-bottom: 40rem;
+}
+
+.teoria {
+    width: 80vw;
+    height: 7vh;
+    background-color: #9E2719;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20rem;
+    font-weight: 500;
+    color: #FEFCE4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.canto {
+    width: 80vw;
+    height: 7vh;
+    background-color: #9E4339;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20rem;
+    font-weight: 500;
+    color: #FEFCE4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.piano {
+    width: 80vw;
+    height: 7vh;
+    background-color: #522F19;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20rem;
+    font-weight: 500;
+    color: #FEFCE4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cuatro {
+    width: 80vw;
+    height: 7vh;
+    background-color: #52140D;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20rem;
+    font-weight: 500;
+    color: #FEFCE4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.coral {
+    width: 80vw;
+    height: 7vh;
+    background-color: #854115;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20rem;
+    font-weight: 500;
+    color: #FEFCE4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sol {
+    width: 50rem;
+    height: 60rem;
+}
+
+.fa {
+    width: 34rem;
+    height: 40rem;
+}
+
+.teclas {
+    width: 26rem;
+    height: 47rem;
+}
+
+.cuerdas {
+    width: 42rem;
+    height: 42rem;
+}
+
+.batuta {
+    width: 45rem;
+    height: 45rem;
 }
 
 .footer {
