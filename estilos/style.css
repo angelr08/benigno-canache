@@ -57,7 +57,7 @@ html {
 
 .saludo {
     width: 70vw;
-    height: 25vh;
+    min-height: 30vh;
     background-color: #521B15;
     font-family: 'Roboto', sans-serif;
     font-size: 16rem;

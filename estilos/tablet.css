@@ -1,0 +1,18 @@
+.nav {
+    font-size: 16rem;
+}
+
+.saludo {
+    width: 45vw;
+   font-size: 30rem;
+   line-height: 50rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.benigno {
+    height: 450rem;
+    margin: 20rem;
+    margin-bottom: 180rem;
+}
