@@ -1,0 +1,47 @@
+.nav {
+    font-size: 18rem;
+}
+
+.fondo {
+    height: 35vh;
+}
+
+.saludo {
+    width: 30vw;
+}
+
+.benigno {
+    height: 250rem;
+    margin: 60rem;
+    margin-bottom: 180rem;
+}
+
+.fondo2 {
+    height: 60vh;
+}
+
+.fondo3 {
+    height: 70vh;
+}
+
+.formacion, .clases {
+    font-size: 28rem;
+}
+
+.experiencia {
+    font-size: 20rem;
+}
+
+.fondo4 {
+    height: 30vh;
+}
+
+.teoria, .canto, .piano, .cuatro, .coral {
+    width: 55vw;
+    font-size: 24rem;
+}
+
+.agradecimientos {
+    font-size: 18rem;
+}
+

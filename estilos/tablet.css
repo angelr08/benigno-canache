@@ -16,3 +16,43 @@
     margin: 20rem;
     margin-bottom: 180rem;
 }
+
+.fondo2, .fondo3 {
+    height: 30vh;
+}
+
+.formacion, .clases {
+    font-size: 24rem;
+}
+
+.experiencia {
+    font-size: 18rem;
+}
+
+.compras .coral {
+    margin-bottom: 75rem;
+}
+
+.teoria, .canto, .piano, .cuatro, .coral {
+    width: 70vw;
+    font-size: 22rem;
+}
+
+.agradecimientos {
+    font-size: 16rem;
+}
+
+.twitter {
+    width: 40rem;
+    height: 35rem;
+}
+
+.youtube {
+    width: 40rem;
+    height: 45rem;
+}
+
+.blog {
+    width: 35rem;
+    height: 35rem;
+}

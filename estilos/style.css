@@ -131,6 +131,8 @@ html {
     background-size: cover;
 }
 
+/* Sección para clases.html */
+
 .fondo4 {
     width: 100vw;
     height: 20vh;
@@ -138,11 +140,10 @@ html {
     background-size: cover;
 }
 
-/* Sección para clases.html */
-
 .compras div {
     margin-bottom: 20rem;
 }
+
 
 .compras .coral {
     margin-bottom: 40rem;
